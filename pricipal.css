@@ -262,12 +262,23 @@ footer {
     section {
         padding: 70px 0;
     }
-    .links ul {
+    @media(max-width: 768px) {
+
+    .barraTarefas{
         gap: 15px;
+        padding: 10px;
+    }
+
+    .links ul {
+        gap: 10px;
+        flex-wrap: wrap;
+        justify-content: center;
     }
 
     .links ul li a {
-        padding: 4px 10px;
-        font-size: 0.9rem;
+        padding: 6px 10px;
+        font-size: 0.85rem;
     }
+
+}
 }
