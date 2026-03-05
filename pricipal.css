@@ -261,4 +261,12 @@ footer {
     section {
         padding: 70px 0;
     }
+    .links ul {
+        gap: 15px;
+    }
+
+    .links ul li a {
+        padding: 6px 10px;
+        font-size: 0.9rem;
+    }
 }
