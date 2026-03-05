@@ -1,38 +1,43 @@
-# 🚀 Meu Portfólio de Projetos
+# 🧠 Site Institucional - Psicóloga Clínica
 
-Bem-vindo ao meu repositório de projetos.
+Landing page desenvolvida para simular o site profissional de uma psicóloga clínica.
 
-Este espaço reúne aplicações desenvolvidas por mim com foco em:
-- Prática de HTML, CSS e JavaScript
-- Criação de interfaces modernas
-- Estruturação semântica
-- Experiência do usuário (UI/UX)
-- Boas práticas de organização de código
+## 📌 Objetivo do Projeto
 
-## 🎯 Objetivo
+Criar um site moderno, elegante e acolhedor, transmitindo:
 
-Desenvolver projetos reais para aprimorar minhas habilidades em desenvolvimento front-end e construir um portfólio sólido.
+- Profissionalismo
+- Confiança
+- Humanização
+- Leveza visual
+
+## 🎨 Conceito Visual
+
+O design utiliza:
+
+- Tipografia elegante (Playfair Display)
+- Fonte moderna e limpa (Inter)
+- Paleta em tons neutros com verde suave
+- Efeitos de glassmorphism
+- Animação suave de entrada
+- Layout responsivo
 
 ## 🛠 Tecnologias Utilizadas
 
-- HTML5
-- CSS3
-- JavaScript
-- Responsividade com Media Queries
-- Estruturação semântica
+- HTML5 semântico
+- CSS3 avançado
+- Grid Layout
+- Flexbox
+- Media Queries
+- Animações com @keyframes
 
-## 📂 Projetos
+## 📱 Responsividade
 
-| Projeto | Descrição | Status |
-|---------|-----------|--------|
-| Site Psicóloga | Landing page profissional para psicóloga clínica | ✅ Concluído |
+O site foi adaptado para:
 
-*(Novos projetos serão adicionados em breve.)*
+- Desktop
+- Tablet
+- Mobile
 
-## 📈 Evolução
+## 📂 Estrutura de Arquivos
 
-Este repositório será atualizado constantemente conforme meu nível técnico evolui.
-
----
-
-Desenvolvido por **[Seu Nome]**
